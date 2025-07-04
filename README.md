@@ -97,13 +97,15 @@ All insights were visualized using Excel charts except:
 
 ## Repository Structure
 
-kms-sql-case-study
-┣  visuals/
-┃ ┗ charts.xlsx
-┣  queries.sql
-┣  cleaned-data.xlsx
-┣  report.docx
-┗  README.md
+Kultra-Mega-Stores-SQL/
+│
+├── KMS SQL Case Study Raw Data/
+├── KMS SQL Cleaned Case Study/
+├── KMS Queries/
+├── KMS Visuals/
+├── KMS Report/
+└── README.md
+
 
 ## Acknowledgements
 This case study was developed as part of a data analysis project in the DSA Program, with a focus on real-world EDA, storytelling, and dashboard design.
