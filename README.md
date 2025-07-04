@@ -65,23 +65,24 @@ All insights were visualized using Excel charts except:
 -  **Top 10 customers with returned items and their segments** – due to the absence of an explicit "Return" field in the dataset.
 
 ### Included Visuals:
-- Total Sales by Region  
-- Profit by Customer Segment  
-- Yearly Sales Trend  
-- Sales by Product Category  
-- Shipping Mode vs Order Priority  
-- Top 10 Customers  
-- Segment Profitability
-- Highest Sales by Product Category  
-- Top 3 and Bottom 3 Regions by Sales  
-- Total Appliance Sales in Ontario  
-- Bottom 10 Customers by Sales  
-- Shipping Mode with Highest Cost  
-- Most Valuable Customers & Their Product Categories  
-- Top Small Business Customer by Sales  
-- Corporate Customer with the Most Orders (2009–2012)  
-- Most Profitable Consumer Customer  
-- Shipping Mode vs Order Priority
+- Total Sales & Profit by Region
+- Profitability by Customer Segment
+- Sales Distribution by Product Category
+- Top 10 Customers by Sales
+- Top 10 Customers by Profit
+- Annual Sales Trend
+- Product Category with the Highest Sales
+- Top 3 Regions by Sales
+- Bottom 3 Regions by Sales
+- Total Sales of Appliances in Ontario
+- Bottom 10 Customers by Sales
+- Shipping Method with the Most Shipping Cost
+- Top 10 Most Valuable Customers by Sales & Typical Products
+- Top 10 Small Business Customers with the Highest Sales
+- Top 10 Corporate Customers with the Most Orders (2009–2012)
+- Top 10 Most Profitable Consumer Customers
+- Shipping Method Based on Order Priority
+
 
 ---
 
